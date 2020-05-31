@@ -372,4 +372,10 @@ return {
 		Description = "A RunService.Heartbeat alternative to Roblox functions that use the legacy scheduler";
 		Documentation = "https://github.com/howmanysmall/Scheduler/blob/master/README.md";
 	};
+
+	GameAnalyticsSDK = {
+		URL = "GameAnalytics/GA-SDK-ROBLOX/tree/master/GameAnalyticsSDK/GameAnalytics";
+		Description = "A utility for using Game Analytics in Roblox";
+		Documentation = "https://gameanalytics.com/docs/item/roblox-sdk";
+	};
 }
